@@ -1,4 +1,4 @@
-//linux only
+//linuxs only
 
 #include <stdio.h>
 #include <stdlib.h>
