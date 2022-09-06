@@ -1,3 +1,5 @@
+//Rabu bi reworkat hrana randomizer, ko se mi bi le enkrat dal.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -220,7 +222,7 @@ int main() {
             printf("\n");
         }
         /*
-        //izpise matrico mest primernih za hrano
+        //izpiše matrico mest primernih za hrano
         for (int i = 0; i < HEIGHT; i++) {
             for (int j = 0; j < WIDTH; j++) {
                 printf("%d", available[i][j]);
